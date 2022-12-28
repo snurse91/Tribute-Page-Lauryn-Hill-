@@ -1,0 +1,122 @@
+h1 {
+    text-align: center;
+    color: white;
+  padding-top: 50; 
+  }
+  
+  div {
+    text-align: center;
+    font-size: 15;
+    color: white;
+  }
+  
+  h4 {
+    font-family: Tahoma;
+    color: white;
+    text-align: center;
+   }
+}
+  
+  img {
+    padding-bottom: 15px;
+    padding-top: 25px;
+    max-width: 50em;
+    height:0;
+    display: block;
+    max-width: 100%;
+  }
+  
+  .img-container {
+    margin: auto;
+    padding: 30px;
+  }
+  
+  .hill-image {
+    object-fit: contain;
+    border-radius: 10px;
+    max-width: 100%;
+    display: block;
+  }
+  
+  h2 {
+    text-align: center;
+    font-size: 18;
+    color: white;
+  }
+  
+  .frame {
+    border: 25px solid white;
+    width: 600px;
+    padding: 10px;
+    margin: 20px auto;
+  }
+  
+  * {
+  box-sizing: border-box;    
+    font-family: Tahoma;
+    background: rgb(127,0,80);
+  }
+  
+  nav > ul {
+    align-items: center;
+    padding-inline-start: 0;
+    margin-block: 0;
+    height: 100%;
+  }
+  
+  nav > ul > li {
+    margin: 3rem;
+    padding: 0.2rem;
+    display: block;
+    color: white;
+  }
+  
+  nav > ul > li > a:hover {
+    cursor: pointer;
+  }
+  
+  li > a {
+    text-decoration: none;
+    justify-content: space-evenly;
+  }
+  
+  h3 {
+    text-align: center;
+   margin: 3rem;
+    padding: 0.2rem;
+    display: block;
+  position: relative;
+  position: absolute;
+  padding: 15px;
+  bottom: -2000;
+  right: 0;
+  left: 0;
+  margin: auto;
+  }
+  
+  p {
+    font-size: 20;
+    display: block;
+    color: white;
+    text-align: center;
+  }
+  
+  figcaption {
+    font-size:18
+  }
+  
+  nav > ul > li > a {
+  color: yellow;
+  }
+  
+  nav > h3 > a {
+  color: yellow
+  }
+  
+  nav > h3 {
+    color: white;
+  }
+    
+  
+  
+  
